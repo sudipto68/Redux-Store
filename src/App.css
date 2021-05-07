@@ -1,7 +1,8 @@
-.App {
-  text-align: center;
-}
 
+.hover:hover{
+transform: scale(1.1);
+transition: 0.5s;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
